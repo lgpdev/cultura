@@ -1,2 +1,2 @@
 # cultura
-cultura LGPD
+cultura LGPD para desenvolvedores
